@@ -1,0 +1,14 @@
+# Hugo-generated files and directories
+public/
+resources/_gen/
+
+# Common temporary and editor-specific files
+*~
+*.swp
+*.swo
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# Environment-specific files (optional)
+.env
